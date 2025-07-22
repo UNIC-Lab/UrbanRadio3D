@@ -1,5 +1,20 @@
 # UrbanRadio3D
 This is the demo of the dataset for UrbanRadio3D, which is accepted by IEEE TNSE. 
+[Paper](https://ieeexplore.ieee.org/document/11083758)
+
+# Citation
+~~~
+@ARTICLE{11083758,
+  author={Wang, Xiucheng and Zhang, Qiming and Cheng, Nan and Chen, Junting and Zhang, Zezhong and Li, Zan and Cui, Shuguang and Shen, Xuemin},
+  journal={IEEE Transactions on Network Science and Engineering}, 
+  title={RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TNSE.2025.3590545}}
+~~~
+
 
 # Dataset Description
 All datasets used in this project can be accessed via the following cloud storage links:
