@@ -42,12 +42,12 @@ If you have any questions, please contact me at xcwang_1@stu.xidian.edu.cn
 All datasets used in this project can be accessed via the following cloud storage links:
 
 - Baidu Cloud Drive: [[link](https://pan.baidu.com/s/1M3tMbY_7gszEfXZjObqOAg)]  
-  Extraction Code: exz2
+  Extraction Code is required.
 
 - OneDrive: [[link](https://1drv.ms/f/c/43887b4a818e442b/EitEjoFKe4gggENwBwAAAAABbruOTF4HjJuAMgfCVmN-4A?e=M6CMQp)]  
-  Extraction Code: RadioDiff-3D
+  Extraction Code is required.
 
-- For the pass key, please click [[link](https://www.wjx.cn/vm/YDv1kEG.aspx)]  
+- For the Extraction Code, please click [[link](https://www.wjx.cn/vm/YDv1kEG.aspx)]  
 
 ## Dataset Splits
 
