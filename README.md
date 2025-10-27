@@ -47,6 +47,8 @@ All datasets used in this project can be accessed via the following cloud storag
 - OneDrive: [[link](https://1drv.ms/f/c/43887b4a818e442b/EitEjoFKe4gggENwBwAAAAABbruOTF4HjJuAMgfCVmN-4A?e=M6CMQp)]  
   Extraction Code: RadioDiff-3D
 
+- For the pass key, please click [[link](https://www.wjx.cn/vm/YDv1kEG.aspx)]  
+
 ## Dataset Splits
 
 We have provided recommended splits of the dataset into training and testing sets to facilitate standardized model training and evaluation.
