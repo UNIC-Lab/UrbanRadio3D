@@ -47,7 +47,9 @@ All datasets used in this project can be accessed via the following cloud storag
 - OneDrive: [[link](https://1drv.ms/f/c/43887b4a818e442b/EitEjoFKe4gggENwBwAAAAABbruOTF4HjJuAMgfCVmN-4A?e=M6CMQp)]  
   Extraction Code is required.
 
-- For the Extraction Code, please click [[link](https://www.wjx.cn/vm/YDv1kEG.aspx)]  
+- For the Extraction Code, please click [[link](https://www.wjx.cn/vm/YDv1kEG.aspx)]
+
+**The extraction code is located at the top of the redirect page after you complete the questionnaire. If you cannot find it, you may contact us via email at xcwang_1@stu.xidian.edu.cn.**
 
 ## Dataset Splits
 
